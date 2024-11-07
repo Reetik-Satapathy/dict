@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Albert Einstein",
+      "quote":
+          "Life is like riding a bicycle. To keep your balance, you must keep moving."
+    },
+    {
+      "name": "Maya Angelou",
+      "quote":
+          "You will face many defeats in life, but never let yourself be defeated."
+    },
+    {
+      "name": "Oscar Wilde",
+      "quote": "Be yourself; everyone else is already taken."
+    },
+    {
+      "name": "Steve Jobs",
+      "quote":
+          "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "quote": "Be the change that you wish to see in the world."
+    }
+  ];
